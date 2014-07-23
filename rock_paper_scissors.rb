@@ -12,6 +12,7 @@
 # Once this code functions, implement a COUNTER that keeps USER and COMPUTER scores and pulls a 
 # winner once a score of 3 is reached.
 
+# MY NEW COMMENT!
 
 
 counter = 1
